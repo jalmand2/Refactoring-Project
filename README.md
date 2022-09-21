@@ -16,7 +16,7 @@ The screenshot below displays the deployed application:
 
 Deployed Application Screenshot.png
 
-To navigate to the deployed application use this link: https://jalmand2.github.io/challenge-one/
+[To navigate to the deployed application click here.](https://jalmand2.github.io/challenge-one/)
 
 ## Credits
 
