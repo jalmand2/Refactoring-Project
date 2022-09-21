@@ -12,6 +12,12 @@ N/A
 
 To use my webpage you can open up the Horesion webpage in a browser on Google Chrome and inspect the code using the elements tab via Chrome DevTools. Once you navigate to the page you can right-click and select "inspect" to open up Chrome DevTools. On the elements tab, it can display the HTML structure and CSS styles associated with each HTML element and display refactored HTML structure of the webpage. 
 
+The screenshot below displays the deployed application: 
+
+Deployed Application Screenshot.png
+
+To navigate to the deployed application use this link: https://jalmand2.github.io/challenge-one/
+
 ## Credits
 
 N/A
